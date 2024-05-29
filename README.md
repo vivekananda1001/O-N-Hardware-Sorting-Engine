@@ -8,7 +8,7 @@ This is a still-incomplete implementation as it does not take into account Dupli
   Logisim
 
 
-Youtube link for out explaination of logic behind the engine: https://youtu.be/MBi46DkI1MY
+Youtube link for out explaination of logic behind the engine: https://youtu.be/E44QaX_F7Ug
 
 
 Credits:
